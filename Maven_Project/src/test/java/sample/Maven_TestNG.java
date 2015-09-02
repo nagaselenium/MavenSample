@@ -8,6 +8,7 @@ public class Maven_TestNG {
   @Test
   public void f() {
 	  System.out.println("Test");
+	  System.out.println("Added new line");
   }
   @BeforeClass
   public void beforeClass() {
