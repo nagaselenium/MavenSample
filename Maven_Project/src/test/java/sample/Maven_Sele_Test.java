@@ -16,6 +16,7 @@ public class Maven_Sele_Test {
   @BeforeClass
   public void beforeClass() {
 	  driver = new FirefoxDriver();
+	  //sample for commit
 	  
   }
 
